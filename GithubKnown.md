@@ -1,6 +1,6 @@
 ## 运维
 
-### Redis windows
+### Redis windows版本
 
 [tporadowski](https://github.com/tporadowski/redis)/redis 
 
